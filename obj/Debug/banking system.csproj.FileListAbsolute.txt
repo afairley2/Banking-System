@@ -1,0 +1,10 @@
+E:\HND SOFTWARE DEVELOPMENT\CODE\banking system\banking system\banking system\bin\Debug\banking system.exe.config
+E:\HND SOFTWARE DEVELOPMENT\CODE\banking system\banking system\banking system\bin\Debug\banking system.exe
+E:\HND SOFTWARE DEVELOPMENT\CODE\banking system\banking system\banking system\bin\Debug\banking system.pdb
+E:\HND SOFTWARE DEVELOPMENT\CODE\banking system\banking system\banking system\obj\Debug\banking system.csprojAssemblyReference.cache
+E:\HND SOFTWARE DEVELOPMENT\CODE\banking system\banking system\banking system\obj\Debug\banking system.csproj.CoreCompileInputs.cache
+E:\HND SOFTWARE DEVELOPMENT\CODE\banking system\banking system\banking system\obj\Debug\banking system.exe
+E:\HND SOFTWARE DEVELOPMENT\CODE\banking system\banking system\banking system\obj\Debug\banking system.pdb
+D:\HND SOFTWARE DEVELOPMENT\CODE\banking system\banking system\banking system\bin\Debug\banking system.exe.config
+D:\HND SOFTWARE DEVELOPMENT\CODE\banking system\banking system\banking system\obj\Debug\banking system.exe
+D:\HND SOFTWARE DEVELOPMENT\CODE\banking system\banking system\banking system\obj\Debug\banking system.pdb
